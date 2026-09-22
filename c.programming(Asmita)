@@ -1,0 +1,12 @@
+#intclud.<stdio.h>
+int main()
+{
+    /comment ,not visible 
+    /* multiline comment
+    */
+    printf("Asmita');
+    int a=7;
+    float b=8;
+    char c="t";
+    return0;
+}
